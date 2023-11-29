@@ -1,0 +1,9 @@
+1 Rice--------------- 10
+2 Chicken(Half)------ 40
+3 Chicken(Full)------ 70
+4 Egg_Curry---------- 30
+5 Rui_Fish----------- 70
+6 Beef_Curry--------- 120
+7 Chicken_Khichuri--- 70
+8 Beef_Tehari(Half)-- 90
+9 Chicken_Biryani---- 120
